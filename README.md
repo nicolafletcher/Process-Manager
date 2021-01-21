@@ -1,5 +1,5 @@
 # Process-Manager
-+=+=+=+=+=+=+=+= Description =+=+=+=+=+=+=+=+
+## Description
 
 Program: PMan
 Author: Nicola Fletcher - 09/20/20
@@ -8,7 +8,7 @@ The executable is called "PMan". PMan starts specified processes in the backgrou
 and continues to prompt the user. The user can use a selection of commands (described further down)
 to send signals to the processes and display information.
 
-+=+=+=+=+=+=+=+=+= Usage =+=+=+=+=+=+=+=+=+=+
+## Usage
 
 
     * Compilation: There is a Makefile provided to take care of building the code, which also requires
@@ -24,7 +24,7 @@ to send signals to the processes and display information.
     * The correct usage of this prompt is:  PMan:   >  <command> [args]
 
 
-+=+=+=+=+=+=+=+= Commands =+=+=+=+=+=+=+=+=+=+
+## Commands
 
 
 The following commands are recognized by PMan:
